@@ -1,0 +1,13 @@
+.card {
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	width: 320px;
+}
+
+.bold {
+	font-weight: 700;
+}
+
+.modal {
+	background-color: rgb(212, 208, 208);
+	min-height: 100px;
+}
